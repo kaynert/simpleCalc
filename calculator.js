@@ -1,3 +1,5 @@
+//basic functions to emulate basic calculator functions
+
 function ADD( a, b) {
 
     console.log(a + b);
